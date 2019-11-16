@@ -12,7 +12,7 @@ export const ROUTES: RouteInfo[] = [
     { path: '/user-profile', title: 'Hospital ',  icon:'hotel', class: '' },
     { path: '/table-list', title: ' Blood Units',  icon:'content_paste', class: '' },
     { path: '/notifications', title: 'Notifications',  icon:'notifications', class: '' },
-    { path: '/logout', title: 'Logout',  icon:'logout', class: 'active-pro' },
+    { path: '/logout', title: 'Logout',  icon:'logout', class: ''  },
 ];
 
 
